@@ -1,3 +1,7 @@
+## Fork Changes
+
+This adds the `xhrRequest` param as a config option in the `Resumable` constructor.
+
 ## What is Resumable.js
 
 Resumable.js is a JavaScript library providing multiple simultaneous, stable and resumable uploads via the [`HTML5 File API`](http://www.w3.org/TR/FileAPI/).
