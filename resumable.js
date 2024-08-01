@@ -739,6 +739,7 @@
         // Append the relevant chunk and send it
         $.xhr.open($.getOpt('testMethod'), $h.getTarget('test', params));
         $.xhr.timeout = $.getOpt('xhrTimeout');
+        console.log($.xhr.timeout)
         $.xhr.withCredentials = $.getOpt('withCredentials');
         // Add data from header options
         var customHeaders = $.getOpt('headers');

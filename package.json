@@ -1,7 +1,7 @@
 {
   "name": "resumablejs",
   "version": "1.1.2",
-  "description": "A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.",
+  "description": "A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API. Forked to addForked to add xhrTimeout.",
   "main": "resumable.js",
   "types": "./resumable.d.ts",
   "scripts": {
@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/23/resumable.js.git"
+    "url": "git+https://github.com/Carloto/resumable.js.git"
   },
   "keywords": [
     "html5",
     "file",
     "upload"
   ],
-  "author": "https://github.com/23/resumable.js/graphs/contributors",
+  "author": "https://github.com/Carloto/resumable.js/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/23/resumable.js/issues"
+    "url": "https://github.com/Carloto/resumable.js/issues"
   },
-  "homepage": "https://github.com/23/resumable.js#readme"
+  "homepage": "https://github.com/Carloto/resumable.js#readme"
 }
